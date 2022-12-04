@@ -1,19 +1,19 @@
-学習進捗
+# 学習進捗
 
-Qiita
+**Qiita**
 
 https://qiita.com/yamazaki2357
 
-Progate
+**Progate**
 
 Lv.９
 
 
 
-ポートフォリオ
+# ポートフォリオ
 
-アプリ
+**アプリ**
 
-Excel
+**Excel**
 
-タイピング
+**タイピング**
