@@ -4,11 +4,11 @@
 
 https://qiita.com/yamazaki2357
 
+**twitter**
+
+https://twitter.com/yamazaki2357
+
 **Progate**
-
-Lv.９
-
-
 
 # ポートフォリオ
 
