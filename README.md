@@ -20,4 +20,4 @@ https://qiita.com/yamazaki2357
 
 **タイピング**
 
-img/タイピングレベル.png
+![タイピング腕試し](/img/腕試し2022.12.4.png)
