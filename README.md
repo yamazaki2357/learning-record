@@ -1,12 +1,12 @@
 # 学習中 \:memo:
-・progate → (~~Git,Command Line~~,HTML&CSS)
+・progate → ~~Git,Command Line~~,HTML&CSS(~~初級~~)
 <br>
-・タイピング→ **A+**(スコア249)
+・タイピング→ 日本語入力**A+**(スコア249)、数字（）
 
-# 目標 \:star2:
+# 12月目標 \:star2:
 ・progate → (Git,Command Line,HTML&CSS,JavaScript,JQuery,Ruby,Ruby on Rails5,SQL,Sass,Node.js)
 <br>
-・タイピング → **S**(スコア260~276)
+・タイピング → 日本語入力**S**(スコア260~276)、数字（）
 
 # 進捗報告 \:running:
 
@@ -30,4 +30,4 @@ https://qiita.com/yamazaki2357
 
 自己ベスト
 <br>
-![タイピング腕試し](/img/腕試し2022.12.4.png)
+![タイピング腕試し](/img/自己ベスト.png)
