@@ -17,3 +17,5 @@ https://twitter.com/yamazaki2357
 **Excel**
 
 **タイピング**
+
+https://www.e-typing.ne.jp/roma/check/
