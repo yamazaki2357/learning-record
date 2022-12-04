@@ -1,7 +1,14 @@
-# 学習中
-・progate
-・タイピング
-# 進捗報告
+# 学習中 \:memo:
+・progate → (~~Git,Command Line~~,HTML&CSS)
+<br>
+・タイピング→ **A+**(スコア249)
+
+# 目標 \:star2:
+・progate → (Git,Command Line,HTML&CSS,JavaScript,JQuery,Ruby,Ruby on Rails5,SQL,Sass,Node.js)
+<br>
+・タイピング → **S**(スコア260~276)
+
+# 進捗報告 \:running:
 
 **twitter**
 
@@ -13,11 +20,14 @@ https://qiita.com/yamazaki2357
 
 # ポートフォリオ
 
-**アプリ**
+**・アプリ**
 （出来たら追加する）
-**Excel**
+<br>
+**・Excel**
 (出来たら追加する)
 
 **タイピング**
 
+自己ベスト
+<br>
 ![タイピング腕試し](/img/腕試し2022.12.4.png)
