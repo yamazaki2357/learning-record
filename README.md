@@ -18,4 +18,4 @@ https://twitter.com/yamazaki2357
 
 **タイピング**
 
-https://www.e-typing.ne.jp/roma/check/
+![タイピング腕試し](/img/腕試し2022.12.4.png)
