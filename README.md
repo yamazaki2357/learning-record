@@ -6,9 +6,9 @@
 ・ショートカット → vscode(https://command-lab.com/)
 
 # 12月目標 \:star2:
-・progate → (Git,Command Line,HTML&CSS,Ruby,JavaScript,JQuery,Ruby on Rails5,SQL,Sass,Node.js)
+・progate → (HTML&CSS,Ruby on Rails5,JavaScript,JQuery,SQL,Sass,Node.js):star:(Git,Command Line,Ruby)
 <br>
-・タイピング → 日本語入力**S**(スコア260~276)、数字**C**（スコア124~140）
+・タイピング → 数字**C**（スコア124 ~ 140）、\:star:日本語入力**S**(スコア260 ~ 276) 
 <br>
 ・ショートカット → vscode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ)
 
@@ -24,11 +24,9 @@ https://qiita.com/yamazaki2357
 
 # ポートフォリオ
 
-**・アプリ**
-（出来たら追加する）
+**・アプリ**(未)
 <br>
-**・Excel**
-(出来たら追加する)
+**・Excel**(未)
 
 **タイピング**
 
