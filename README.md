@@ -1,14 +1,12 @@
 # 学習中 \:memo:
-・progate → ~~Git,Command Line~~,HTML&CSS(~~初級~~)
+・progate → HTML&CSS、Ruby on Rails5
 <br>
-・タイピング → 日本語入力**S**(スコア275)、数字**D++**(スコア100)
+・タイピング → 日本語入力**S**(スコア275)、数字**c-**(スコア123)
 <br>
-・ショートカット → vscode
-
-https://command-lab.com/
+・ショートカット → vscode(https://command-lab.com/)
 
 # 12月目標 \:star2:
-・progate → (Git,Command Line,HTML&CSS,JavaScript,JQuery,Ruby,Ruby on Rails5,SQL,Sass,Node.js)
+・progate → (Git,Command Line,HTML&CSS,Ruby,JavaScript,JQuery,Ruby on Rails5,SQL,Sass,Node.js)
 <br>
 ・タイピング → 日本語入力**S**(スコア260~276)、数字**C**（スコア124~140）
 <br>
@@ -34,6 +32,6 @@ https://qiita.com/yamazaki2357
 
 **タイピング**
 
-自己ベスト
+<!-- 自己ベスト
 <br>
-![タイピング腕試し](/img/自己ベスト.png)
+![タイピング腕試し](/img/自己ベスト.png) -->
