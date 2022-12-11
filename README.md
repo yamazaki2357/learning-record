@@ -2,17 +2,27 @@
 ## \:memo: 学習中 
 
 ・Progate → Ruby on Rails5, javaScript, PHP
-<br><br>
-・タイピング → 数字**C-**(スコア123)
-<br><br>
+
 ・ショートカットキー → VSCode(https://command-lab.com/)
+
+・Railsチュートリアル　→ 3章
 
 ## \:star2: 12月目標
 ・Progate → (HTML&CSS,Ruby on Rails5,JavaScript,JQuery,SQL,Sass,Node.js,Git,Command Line,Ruby)
-<br><br>
+
 ・タイピング → 日本語入力**S**(スコア260 ~ 276) 数字**C**（スコア124 ~ 140）
-<br><br>
+
 ・ショートカットキー → VSCode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ)
+
+<details><summary>:seedling: 1月目標</summary>
+
+・Railsチュートリアル
+
+・タイピング → 数字入力 **B**（スコア175 ~ 191）
+<br>
+個人的な用途でのパソコン利用には問題のないレベル
+
+</details>
 
 ## \:running: 進捗報告・アウトプット
 
@@ -28,11 +38,11 @@ https://qiita.com/yamazaki2357
 
 ・Progate → HTML & CSS, Ruby, Git, Sass, Command Line
 <br><br>
-・タイピング → 日本語入力**Good!**(スコア283) 
+・タイピング → 日本語入力**Good!**(スコア283), 数字入力**C**(スコア125) 
 <br><br>
 ・ショートカットキー → VSCode(編集・移動・コメント・基本操作・エディタ)
 <br><br>
-・Railsチュートリアル　1章
+・Railsチュートリアル　1章〜2章
 <br><br>
 ・Udemy → 【基礎からわかる！】Webアプリケーションの仕組み
 (https://www.udemy.com/share/104tNc3@QVDpnfRoh7wxRHeBGeCfkWhBF_NofEMPJnojBci8uleW-pbIk-zRMg7DnaXCVwuvVg==/)
