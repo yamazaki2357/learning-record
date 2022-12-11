@@ -1,20 +1,20 @@
-# 12月10日（土）
-## 学習中 \:memo:
+# 2022年12月11日（日）
+## \:memo: 学習中 
 
 ・Progate → Ruby on Rails5, javaScript, PHP
-<br>
+<br><br>
 ・タイピング → 数字**C-**(スコア123)
-<br>
-・ショートカットキー → vscode(https://command-lab.com/)
+<br><br>
+・ショートカットキー → VSCode(https://command-lab.com/)
 
-## 12月目標 \:star2:
+## \:star2: 12月目標
 ・Progate → (HTML&CSS,Ruby on Rails5,JavaScript,JQuery,SQL,Sass,Node.js,Git,Command Line,Ruby)
-<br>
+<br><br>
 ・タイピング → 日本語入力**S**(スコア260 ~ 276) 数字**C**（スコア124 ~ 140）
-<br>
-・ショートカットキー → vscode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ)
+<br><br>
+・ショートカットキー → VSCode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ)
 
-## 進捗報告、アウトプット \:running:
+## \:running: 進捗報告・アウトプット
 
 **Twitter**
 
@@ -24,13 +24,18 @@ https://twitter.com/yamazaki2357
 
 https://qiita.com/yamazaki2357
 
-<details><summary>:star:12月 達成済み:star:</summary>
+<details><summary>:star: 2022年12月 達成・学習済み</summary>
 
 ・Progate → HTML & CSS, Ruby, Git, Sass, Command Line
-<br>
+<br><br>
 ・タイピング → 日本語入力**Good!**(スコア283) 
-<br>
-・ショートカットキー → vscode()
+<br><br>
+・ショートカットキー → VSCode(編集・移動・コメント・基本操作・エディタ)
+<br><br>
+・Railsチュートリアル　1章
+<br><br>
+・Udemy → 【基礎からわかる！】Webアプリケーションの仕組み
+(https://www.udemy.com/share/104tNc3@QVDpnfRoh7wxRHeBGeCfkWhBF_NofEMPJnojBci8uleW-pbIk-zRMg7DnaXCVwuvVg==/)
 
 </details>
 
