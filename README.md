@@ -1,9 +1,9 @@
-# 2022年12月12日（月）
+# 2022年12月13日（火）
 ## \:memo: 学習中 
 
-・Progate → SQL, JQuery, PHP
+・Progate → JQuery, PHP
 
-・Railsチュートリアル　→ 3章~
+・Railsチュートリアル　→ 4章~
 
 ・ショートカットキー → VSCode(https://command-lab.com/)
 
@@ -38,13 +38,13 @@ https://qiita.com/yamazaki2357
 
 <details><summary>:star: 2022年12月 達成・学習済み</summary>
 
-・Progate → HTML & CSS, Ruby, Git, Sass, Command Line, javaScript, Ruby on Rails5
+・Progate → HTML & CSS, Ruby, Git, Sass, Command Line, javaScript, Ruby on Rails5, SQL
 <br><br>
 ・タイピング → 日本語入力**Good!**(スコア283), 数字入力**C**(スコア134) 
 <br><br>
 ・ショートカットキー → VSCode(編集・移動・コメント・基本操作・エディタ)
 <br><br>
-・Railsチュートリアル　1章〜2章
+・Railsチュートリアル　1章〜3章
 <br><br>
 ・Udemy → 【基礎からわかる！】Webアプリケーションの仕組み
 (https://www.udemy.com/share/104tNc3@QVDpnfRoh7wxRHeBGeCfkWhBF_NofEMPJnojBci8uleW-pbIk-zRMg7DnaXCVwuvVg==/)
