@@ -61,7 +61,7 @@ https://qiita.com/yamazaki2357
 <!--  -->
 
 
-## :four_leaf_clover: ポートフォリオ(主な言語)
+## :four_leaf_clover: ポートフォリオ(主な使用言語)
 
 ### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS)（進捗: 10%）
 <img src="https://github.com/yamazaki2357/study/blob/main/img/%20%E6%A8%A1%E5%86%99%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0.png" width="50%">
