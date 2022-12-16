@@ -61,26 +61,19 @@ https://qiita.com/yamazaki2357
 <!--  -->
 
 
-## :four_leaf_clover: ポートフォリオ(主な言語)（準備中）
-
-<!-- 
-
-### 食品サンプルサイト(Ruby on Rails)
-
-### ブラックジャック（仮）(Ruby)
-
- -->
+## :four_leaf_clover: ポートフォリオ(主な言語)（進捗: 20%）
 
 ### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS)
+<img src="https://github.com/yamazaki2357/study/blob/main/img/%20%E6%A8%A1%E5%86%99%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0.png" width="50%">
 
-<!-- 
+#### 食品サンプル(Ruby on Rails)(準備中)
+<img src="https://github.com/yamazaki2357/study/blob/main/img/%E9%A3%9F%E5%93%81%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.png" width="30%">
 
-### スロットマシーン（仮）(Javascript)
+#### ブラックジャック(Ruby)（準備中）
 
-### 星を見に行こう(Vue.js)
+#### スロットマシーン(Javascript)（準備中）
 
-### 規格品管理(Excel VBA)
+#### 星を見に行こう(Vue.js)（準備中）
 
- -->
-
+#### 規格品管理(Excel VBA)（準備中）
 
