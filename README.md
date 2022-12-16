@@ -1,4 +1,4 @@
-# 2022年12月15日（木）
+# 2022年12月16日（金）
 ## \:memo: 学習中 
 
 ・Progate → JQuery, PHP
@@ -8,6 +8,8 @@
 ・ショートカットキー → VSCode(https://command-lab.com/)
 
 ・タイピング　→ 数字入力**C**（スコア134）
+
+・サイト模写　→ 入門編・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
 
 ## \:star2: 12月目標
 ・Progate → (HTML&CSS,Ruby on Rails5,JavaScript,JQuery,SQL,Sass,Node.js,Git,Command Line,Ruby)
@@ -19,6 +21,8 @@
 <details><summary>:seedling: 1月目標</summary>
 
 ・Railsチュートリアル
+
+・模写コーディング　①〜⑤（上級）
 
 ・タイピング → 数字入力 **B**（スコア175 ~ 191）
 <br>
@@ -48,42 +52,35 @@ https://qiita.com/yamazaki2357
 <br><br>
 ・Udemy → 【基礎からわかる！】Webアプリケーションの仕組み
 (https://www.udemy.com/share/104tNc3@QVDpnfRoh7wxRHeBGeCfkWhBF_NofEMPJnojBci8uleW-pbIk-zRMg7DnaXCVwuvVg==/)
+<br><br>
+・サイト模写　→ 「入門編」
 
 </details>
 
 
+<!--  -->
 
+
+## :four_leaf_clover: ポートフォリオ(主な言語)（準備中）
 
 <!-- 
-# ポートフォリオ
 
-主な使用言語　Ruby on Rails、AWS（デプロイ）
+### 食品サンプルサイト(Ruby on Rails)
 
-・食品サンプルサイト
+### ブラックジャック（仮）(Ruby)
 
-主な使用言語　Ruby
+ -->
 
-・じゃんけん（仮）
-・ブラックジャック（仮）
+### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS)
 
-主な使用言語　HTML&CSS
+<!-- 
 
-・サイト模写コーディング
+### スロットマシーン（仮）(Javascript)
 
-主な使用言語　Javascript
+### 星を見に行こう(Vue.js)
 
-・スロットマシーン（仮）
+### 規格品管理(Excel VBA)
 
-主な使用言語　Vue.js
+ -->
 
-・星を見に行こう
 
-主な使用言語　Excel VBA
-
-・規格品管理ブック
-
-**タイピング**
-
-日本語入力、数字入力
-
--->
