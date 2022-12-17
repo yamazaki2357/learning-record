@@ -71,11 +71,10 @@ https://qiita.com/yamazaki2357
 
 #### スロットマシーン (Javascript)（準備中）
 
-#### [星を見に行こう](https://vue-constellation.netlify.app/) (Vue.js)（準備中）
+#### [星を見に行こう](https://vue-constellation.netlify.app/) (Vue.js)（準備中:　昔作ったコード消えてた...(´；ω；｀) )　
 <div style="float: left">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう2.png" width="30%">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう1.png" width="30%">
-  <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう3.png" width="30%">
 </div>
 
 #### 制作工程・規格品管理 (Excel VBA) (📝画像 → ビデオにする）
