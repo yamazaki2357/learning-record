@@ -1,4 +1,4 @@
-# 2022年12月17日（土）
+# 2022年12月18日（日）
 ## \:memo: 学習中 
 
 ・ショートカットキー → VSCode(https://command-lab.com/)
@@ -71,7 +71,12 @@ https://qiita.com/yamazaki2357
 
 #### スロットマシーン (Javascript)（準備中）
 
-#### 星を見に行こう (Vue.js)（準備中）
+#### [星を見に行こう](https://vue-constellation.netlify.app/) (Vue.js)（準備中）
+<div style="float: left">
+  <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう2.png" width="30%">
+  <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう1.png" width="30%">
+  <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう3.png" width="30%">
+</div>
 
 #### 制作工程・規格品管理 (Excel VBA) (📝画像 → ビデオにする）
 <div style="float: left">
