@@ -1,4 +1,4 @@
-# 2022年12月18日（日）
+# 2022年12月20日（火）
 ## \:memo: 学習中 
 
 ・ショートカットキー → VSCode(https://command-lab.com/)
@@ -7,7 +7,7 @@
 
 ・Railsチュートリアル　→ 4章~
 
-・サイト模写　→ 入門編・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
+・サイト模写　→ 初級編②・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
 
 ## \:star2: 12月目標
 ・Progate → (HTML&CSS,Ruby on Rails5,JavaScript,JQuery,SQL,Sass,Node.js,Git,Command Line,Ruby) :star:**達成**:star:
@@ -51,7 +51,7 @@ https://qiita.com/yamazaki2357
 ・Udemy → 【基礎からわかる！】Webアプリケーションの仕組み
 (https://www.udemy.com/share/104tNc3@QVDpnfRoh7wxRHeBGeCfkWhBF_NofEMPJnojBci8uleW-pbIk-zRMg7DnaXCVwuvVg==/)
 <br><br>
-・サイト模写　→ 「入門編」
+・サイト模写　→ コーディング一覧サイト作成　＆　模写コーディング【入門編】①、②、③、④【初級編】①
 
 </details>
 
@@ -61,7 +61,7 @@ https://qiita.com/yamazaki2357
 
 ## :four_leaf_clover: ポートフォリオ(主な使用言語)(実装中）
 
-### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS)（進捗: 15%）
+### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS)（進捗: 30%）
 <img src="https://github.com/yamazaki2357/study/blob/main/img/模写コーディング.png" width="50%">
 
 #### 食品サンプル (Ruby on Rails)(準備中)
@@ -71,13 +71,13 @@ https://qiita.com/yamazaki2357
 
 #### スロットマシーン (Javascript)（準備中）
 
-#### [星を見に行こう](https://vue-constellation.netlify.app/) (Vue.js)（準備中:　昔作ったコード消えてた...(´；ω；｀) )　
+#### [星を見に行こう](https://vue-constellation.netlify.app/) (Vue.js)（準備中)　
 <div style="float: left">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう2.png" width="30%">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう1.png" width="30%">
 </div>
 
-#### 制作工程・規格品管理 (Excel VBA) (📝画像 → ビデオにする）
+#### 制作工程・規格品管理 (Excel VBA)(準備中) <!-- 📝画像 → ビデオにする -->
 <div style="float: left">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/制作工程.png" width="30%">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/規格品管理１.png" width="30%">
