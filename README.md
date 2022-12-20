@@ -1,8 +1,6 @@
 # 2022年12月20日（火）
 ## \:memo: 学習中 
 
-・ショートカットキー → VSCode(https://command-lab.com/)
-
 ・タイピング　→ 数字入力**C**（スコア134）
 
 ・Railsチュートリアル　→ 4章~
@@ -14,7 +12,7 @@
 
 ・タイピング → 日本語入力**S**(スコア260 ~ 276) 数字入力**C**（スコア124 ~ 140）:star:**達成**:star:
 
-・ショートカットキー → VSCode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ)
+・ショートカットキー → VSCode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ):star:**達成**:star:
 
 <details><summary>:seedling: 1月目標</summary>
 
@@ -44,19 +42,19 @@ https://qiita.com/yamazaki2357
 <br><br>
 ・タイピング → 日本語入力**Good!**(スコア283), 数字入力**C**(スコア134) 
 <br><br>
-・ショートカットキー → VSCode(編集・移動・コメント・基本操作・エディタ)
+・ショートカットキー → VSCode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ)
 <br><br>
 ・Railsチュートリアル　1章〜3章
 <br><br>
-・Udemy → 【基礎からわかる！】Webアプリケーションの仕組み
-(https://www.udemy.com/share/104tNc3@QVDpnfRoh7wxRHeBGeCfkWhBF_NofEMPJnojBci8uleW-pbIk-zRMg7DnaXCVwuvVg==/)
+・Udemy → 
+
+【基礎からわかる！】Webアプリケーションの仕組み https://www.udemy.com/certificate/UC-f334f78e-e805-48fc-8aff-949da2e47648/
+
+CSSを効率的に書く！フロントエンドエンジニアのための「Sass」講座 基礎から実践まで https://www.udemy.com/certificate/UC-d41a06c0-ad28-486e-bcc6-0047a493e8cb/
 <br><br>
 ・サイト模写　→ コーディング一覧サイト作成　＆　模写コーディング【入門編】①、②、③、④【初級編】①
 
 </details>
-
-
-<!--  -->
 
 
 ## :four_leaf_clover: ポートフォリオ(主な使用言語)(実装中）
