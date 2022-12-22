@@ -1,34 +1,40 @@
 # 2022年12月22日（木)
 ## \:memo: 学習中 
 
-・タイピング　→ 数字入力**C**（スコア134）
+・Railsチュートリアル　→ 4章〜14章
 
-・Railsチュートリアル　→ 4章~
-
-・サイト模写　→ 初級編②・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
-
-・ショートカットキー → Vim(移動・編集・ファイル操作・画面分割・レジスタの活用)
+・模写コーディング　→ 初級編②・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
 
 ・LPIC試験　→ ping-t(https://mondai.ping-t.com/)
 
-## \:star2: 12月目標
+・タイピング　→ 数字入力**C**（スコア134）
+
+・ショートカットキー → Vim(移動・編集・ファイル操作・画面分割・レジスタの活用)
+
+## \:star2: 12月目標 (:star:**達成**:star:)
 ・Progate → (HTML&CSS,Ruby on Rails5,JavaScript,JQuery,SQL,Sass,Node.js,Git,Command Line,Ruby) :star:**達成**:star:
 
 ・タイピング → 日本語入力**S**(スコア260 ~ 276) 数字入力**C**（スコア124 ~ 140）:star:**達成**:star:
 
 ・ショートカットキー → VSCode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ):star:**達成**:star:
 
-<details><summary>:seedling: 1月目標</summary>
+### \:star2: 1月目標 
 
-・Railsチュートリアル
+・Railsチュートリアル　→ 修了
 
-・模写コーディング　①〜⑤（上級）
+・模写コーディング　→【中級編】①〜④、【上級編】①〜④
+
+・LPIC level1 → 合格
+
+・ショートカットキー → Vim(移動・編集・ファイル操作・画面分割・レジスタの活用) 習得
 
 ・タイピング → 数字入力 **B**（スコア175 ~ 191）
 <br>
 個人的な用途でのパソコン利用には問題のないレベル
 
-・LPIC level1 合格
+<details><summary>:seedling: 2月目標</summary>
+
+・未定
 
 </details>
 
@@ -58,7 +64,7 @@ https://qiita.com/yamazaki2357
 
 CSSを効率的に書く！フロントエンドエンジニアのための「Sass」講座 基礎から実践まで https://www.udemy.com/certificate/UC-d41a06c0-ad28-486e-bcc6-0047a493e8cb/
 <br><br>
-・サイト模写　→ コーディング一覧サイト作成　＆　模写コーディング【入門編】①、②、③、④【初級編】①
+・サイト模写　→ コーディング一覧ページ作成　＆　模写コーディング【入門編】①、②、③【初級編】①
 
 </details>
 
