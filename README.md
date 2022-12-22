@@ -1,4 +1,4 @@
-# 2022年12月20日（火）
+# 2022年12月22日（木)
 ## \:memo: 学習中 
 
 ・タイピング　→ 数字入力**C**（スコア134）
@@ -6,6 +6,10 @@
 ・Railsチュートリアル　→ 4章~
 
 ・サイト模写　→ 初級編②・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
+
+・ショートカットキー → Vim(移動・編集・ファイル操作・画面分割・レジスタの活用)
+
+・LPIC試験　→ ping-t(https://mondai.ping-t.com/)
 
 ## \:star2: 12月目標
 ・Progate → (HTML&CSS,Ruby on Rails5,JavaScript,JQuery,SQL,Sass,Node.js,Git,Command Line,Ruby) :star:**達成**:star:
@@ -23,6 +27,8 @@
 ・タイピング → 数字入力 **B**（スコア175 ~ 191）
 <br>
 個人的な用途でのパソコン利用には問題のないレベル
+
+・LPIC level1 合格
 
 </details>
 
