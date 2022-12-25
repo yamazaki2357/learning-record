@@ -1,9 +1,9 @@
 # 2022年12月24日（土)
 ## \:memo: 学習中 
 
-・Railsチュートリアル　→ 5章〜14章
+・Railsチュートリアル　→ 5章〜
 
-・模写コーディング　→ 初級編②・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
+・模写コーディング　→ 初級編②の手直し・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
 
 ・LPIC試験　→ ping-t(https://mondai.ping-t.com/)
 
@@ -56,7 +56,7 @@ https://qiita.com/yamazaki2357
 <br><br>
 ・ショートカットキー → VSCode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ)
 <br><br>
-・Railsチュートリアル　1章〜3章
+・Railsチュートリアル　1章〜4章
 <br><br>
 ・Udemy → 
 
@@ -71,9 +71,11 @@ CSSを効率的に書く！フロントエンドエンジニアのための「Sa
 
 ## :four_leaf_clover: ポートフォリオ(主な使用言語)(実装中）
 
-### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS)（進捗: 30%）
+### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS,Javascript)（進捗: 30%）
 <img src="https://github.com/yamazaki2357/study/blob/main/img/模写コーディング.png" width="50%">
 
+
+<!-- 
 #### 食品サンプル (Ruby on Rails)(準備中)
 <img src="https://github.com/yamazaki2357/study/blob/main/img/食品サンプル.png" width="30%">
 
@@ -87,13 +89,13 @@ CSSを効率的に書く！フロントエンドエンジニアのための「Sa
   <img src="https://github.com/yamazaki2357/study/blob/main/img/星を見に行こう1.png" width="30%">
 </div>
 
-#### 制作工程・規格品管理 (Excel VBA)(準備中) <!-- 📝画像 → ビデオにする -->
+#### 制作工程・規格品管理 (Excel VBA)(準備中)  📝画像 → ビデオにする 
 <div style="float: left">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/制作工程.png" width="30%">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/規格品管理１.png" width="30%">
-<!--   <img src="https://github.com/yamazaki2357/study/blob/main/img/規格品管理２.png" width="30%"> -->
+  <img src="https://github.com/yamazaki2357/study/blob/main/img/規格品管理２.png" width="30%">
   <img src="https://github.com/yamazaki2357/study/blob/main/img/規格品管理３.png" width="30%">
 </div>
-
+-->
 
 
