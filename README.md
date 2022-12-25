@@ -1,4 +1,4 @@
-# 2022年12月24日（土)
+# 2022年12月25日（日)
 ## \:memo: 学習中 
 
 ・Railsチュートリアル　→ 5章〜
@@ -7,7 +7,7 @@
 
 ・LPIC試験　→ ping-t(https://mondai.ping-t.com/)
 
-・タイピング　→ 数字入力**C**（スコア138）
+・タイピング　→ 数字入力**C+**（スコア142）
 
 ・ショートカットキー → Vim(移動・編集・ファイル操作・画面分割・レジスタの活用)
 
@@ -63,6 +63,8 @@ https://qiita.com/yamazaki2357
 【基礎からわかる！】Webアプリケーションの仕組み https://www.udemy.com/certificate/UC-f334f78e-e805-48fc-8aff-949da2e47648/
 
 CSSを効率的に書く！フロントエンドエンジニアのための「Sass」講座 基礎から実践まで https://www.udemy.com/certificate/UC-d41a06c0-ad28-486e-bcc6-0047a493e8cb/
+  
+【5日でできる】はじめてのLinus入門(LPIC Level1対応) https://www.udemy.com/certificate/UC-6dee76c2-af02-4ad7-83f5-d4d6c8540486/
 <br><br>
 ・サイト模写　→ コーディング一覧ページ作成　＆　模写コーディング【入門編】①、②、③【初級編】①
 
