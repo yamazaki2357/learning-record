@@ -39,34 +39,6 @@ https://twitter.com/yamazaki2357
 
 https://qiita.com/yamazaki2357
 
-<details><summary>:star: 2022年12月 達成・学習済み</summary>
-
-・Progate → HTML & CSS, Ruby, Git, Sass, Command Line, javaScript, Ruby on Rails5, SQL, JQuery
-<br><br>
-・タイピング → 日本語入力**Good!**(スコア283), 数字入力**C**(スコア134) 
-<br><br>
-・ショートカットキー → VSCode(編集・移動・コメント・表示・選択・検索・置換・UI操作・基本操作・エディタ)
-<br><br>
-・Railsチュートリアル　1章〜4章
-<br><br>
-・Udemy → 
-
-【基礎からわかる！】Webアプリケーションの仕組み https://www.udemy.com/certificate/UC-f334f78e-e805-48fc-8aff-949da2e47648/
-
-CSSを効率的に書く！フロントエンドエンジニアのための「Sass」講座 基礎から実践まで https://www.udemy.com/certificate/UC-d41a06c0-ad28-486e-bcc6-0047a493e8cb/
-  
-【5日でできる】はじめてのLinus入門(LPIC Level1対応) https://www.udemy.com/certificate/UC-6dee76c2-af02-4ad7-83f5-d4d6c8540486/
-<br><br>
-・サイト模写　→ コーディング一覧ページ作成　＆　模写コーディング【入門編】①、②、③【初級編】①
-
-</details>
-
-<details><summary>:star: 2023年1月 達成・学習済み</summary>
-
-・Railsチュートリアル　5章
-
-</details>
-
 ## :four_leaf_clover: ポートフォリオ(主な使用言語)(実装中）
 
 ### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS,Javascript)（進捗: 30%）
