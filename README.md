@@ -1,11 +1,11 @@
-# 2022年12月25日（日)
+# 2022年12月28日（水)
 ## \:memo: 学習中 
 
-・Railsチュートリアル　→ 5章〜
+・Railsチュートリアル　→ 6章〜
 
-・模写コーディング　→ 初級編②の手直し・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
+・模写コーディング　→ 初級編③・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
 
-・LPIC試験　→ ping-t(https://mondai.ping-t.com/)
+・LPIC試験101　→ ping-t(https://mondai.ping-t.com/)
 
 ・タイピング　→ 数字入力**C+**（スコア142）
 
@@ -17,7 +17,7 @@
 
 ・模写コーディング　→【初級編】①〜④、【中級編】①〜④、【上級編】①〜④
 
-・LPIC level1 → 合格
+・LPIC level1 101 → 合格
 
 ・タイピング → 数字入力 **B**（スコア175 ~ 191）
 
@@ -61,6 +61,11 @@ CSSを効率的に書く！フロントエンドエンジニアのための「Sa
 
 </details>
 
+<details><summary>:star: 2023年1月 達成・学習済み</summary>
+
+・Railsチュートリアル　5章
+
+</details>
 
 ## :four_leaf_clover: ポートフォリオ(主な使用言語)(実装中）
 
