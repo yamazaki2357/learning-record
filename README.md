@@ -1,4 +1,4 @@
-# 2022年12月29日（木)
+# 2022年12月30日（金)
 ## \:memo: 学習中 
 
 ・Railsチュートリアル　→ 6章〜
@@ -7,21 +7,17 @@
 
 ・LPIC試験101　→ ping-t(https://mondai.ping-t.com/)
 
-・タイピング　→ 数字入力**C+**（スコア142）
-
-・ショートカットキー → Vim(移動・編集・ファイル操作・画面分割・レジスタの活用)
+・タイピング　→ 数字入力**C+**（スコア151）
 
 ## \:star2: 1月目標 
 
 ・Railsチュートリアル　→ 修了
 
-・模写コーディング　→【初級編】①〜④、【中級編】①〜④、【上級編】①〜④
+・模写コーディング　→【中級編】①〜④、【上級編】①〜④
 
 ・LPIC level1 101 → 合格
 
 ・タイピング → 数字入力 **B**（スコア175 ~ 191）
-
-・ショートカットキー → Vim(移動・編集・ファイル操作・画面分割・レジスタの活用) 習得
 
 <details><summary>:seedling: 2月目標</summary>
 
@@ -41,7 +37,7 @@ https://qiita.com/yamazaki2357
 
 ## :four_leaf_clover: ポートフォリオ(主な使用言語)(実装中）
 
-### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS,Javascript)（進捗: 30%）
+### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS,Javascript)（進捗: 40%）
 <img src="https://github.com/yamazaki2357/study/blob/main/img/模写コーディング.png" width="50%">
 
 
