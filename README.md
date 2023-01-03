@@ -1,11 +1,11 @@
-# 2023年1月２日（月)
+# 2023年1月3日（火)
 ## \:memo: 学習中 
 
 ・Railsチュートリアル　→ 6章〜
 
-・模写コーディング　→ 初級編③・[模写コーディング]おすすめサイト（https://code-step.com/coding-recommend/）
+・模写コーディング　→ ISaraサイト（進捗：７割ほど）
 
-・LPIC試験101　→ ping-t(https://mondai.ping-t.com/)
+・LPIC試験101　→ 問題集２周目に進んでます　ping-t(https://mondai.ping-t.com/)
 
 ・タイピング　→ 数字入力**C+**（スコア157）
 
