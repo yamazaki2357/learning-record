@@ -1,25 +1,29 @@
-# 2023年1月29日（日）
+# 2023年1月30日（月）
 ## \:memo: 学習中 
 
 ・Railsチュートリアル　→ 11章 ~ 14章
 
 ・模写コーディング　→ ISaraサイト（進捗：７割ほど）、FAQサイトコーディング
 
-・LPIC試験101　→ 学習終了！　明日試験
-
-・タイピング　→ 数字入力**B-**（スコア16７）
+・タイピング　→ 数字入力**B-**（スコア173）
 
 ## \:star2: 1月目標 
+
+・Railsチュートリアル　→ 修了❌
+
+・模写コーディング　→ ISaraサイト、FAQサイトコーディング完了❌
+
+・LPIC level1 101 → 合格⭐️
+
+・タイピング → 数字入力 **B**（スコア175 ~ 191）🔺
+
+<details><summary>:seedling: 2月目標</summary>
 
 ・Railsチュートリアル　→ 修了
 
 ・模写コーディング　→ ISaraサイト、FAQサイトコーディング完了
 
-・LPIC level1 101 → 合格
-
-・タイピング → 数字入力 **B**（スコア175 ~ 191）
-
-<details><summary>:seedling: 2月目標</summary>
+・タイピング → 数字入力 **B**（スコア180）
 
 ・未定
 
@@ -34,14 +38,14 @@ https://twitter.com/yamazaki2357
 **Qiita**（エラー解決の備忘録）
 
 https://qiita.com/yamazaki2357
-
+<!-- 
 ## :four_leaf_clover: ポートフォリオ(主な使用言語)(実装中）
 
 ### [模写コーディング](https://yamazaki2357.github.io/site-coding/)(HTML,CSS,Javascript)（進捗: 40%）
 <img src="https://github.com/yamazaki2357/study/blob/main/img/模写コーディング.png" width="50%">
 
 
-<!-- 
+
 #### 食品サンプル (Ruby on Rails)(準備中)
 <img src="https://github.com/yamazaki2357/study/blob/main/img/食品サンプル.png" width="30%">
 
