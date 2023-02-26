@@ -1,11 +1,14 @@
-# 2023年2月24日（金）
+# 2023年2月26日（日）
 ## \:memo: 学習中 
 
 ・Railsチュートリアル　→ 14章
 
-・LPIC level1 102 → ping-t問題　2周目
+・LPIC level1 102 → ping-t問題　3周目
 
-・AIの活用　✅スプレットシートGPT関数でブログ記事生成。⏩スプレットシートで一元管理して複数のブログ媒体に自動投稿
+・AIの活用、自動化  
+✅スプレットシートGPT関数でブログ記事生成。  
+⏩スプレットシートで一元管理して複数のブログ媒体に自動投稿  
+MENTAを使ってメンターさんにサポート依頼。
 
 ## \:star2: 2月目標 
 
@@ -44,3 +47,4 @@ https://yamazaki2357.hatenablog.com/
 | --- | --- | --- |
 | よくある質問（非公式）　　 | https://school-faq.netlify.app/ | https://github.com/yamazaki2357/FAQ |
 | 共同開発題材の提案 | https://coding-together.netlify.app/ | https://github.com/yamazaki2357/site-coding |
+|AIで書いているブログ|https://yamazaki2357.hatenablog.com/||
