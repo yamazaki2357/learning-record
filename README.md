@@ -1,25 +1,17 @@
-# 2023年３月8日（水）
+# 2023年３月9日（木）
 ## \:memo: 学習中 
 
 ・LPIC level1 102 → ping-t問題　3周目
 
-・AI×自動化の学習　　
-
-→✅作業①：Excelシートに書かれているブログ記事のテーマをChromeのChatGPTにコピペして送信。ブログ記事生成が終わったら前述の同じ作業を繰り返す。
-
-→✅作業②：ChromeでChatGPTが生成したブログ記事本文をExcelシートのセルに順にコピペする。
-
-→⏩投稿予定日、タグ、記事投稿済みなどのテーブルをExcelシート側で整える
-
-→⏩作業③：Excelのレコードを元にはてなブログに記事を自動で予約投稿する
+・AI×自動化の学習　　ほぼ完成⭐️！
 
 ## \:star2: ３月目標 
 
 ⏩AI×自動化の学習　　
 
-→全自動ブログを完成させる　　
+→全自動ブログを完成させる　　⭐️
 
-→技術記事にまとめる
+→技術記事にまとめる　⭐️
 
 ⏩進捗8割のポートフォリオ　　
 
@@ -39,14 +31,10 @@ https://twitter.com/yamazaki2357
 
 https://qiita.com/yamazaki2357
 
-**ブログ**
-
-https://yamazaki2357.hatenablog.com/
-
 **作ったもの**
 
-| 名前 | URL | Github |
-| --- | --- | --- |
-| よくある質問（非公式）　　 | https://school-faq.netlify.app/ | https://github.com/yamazaki2357/FAQ |
-| 共同開発題材の提案 | https://coding-together.netlify.app/ | https://github.com/yamazaki2357/site-coding |
-|AIで書いているブログ|https://yamazaki2357.hatenablog.com/||
+| 名前 | よくある質問（非公式） | 共同開発題材の提案 | AI×自動化 ブログ |
+|---|---|---|---|
+|URL|https://school-faq.netlify.app/|https://coding-together.netlify.app|ブログ: https://yamazaki2357.hatenablog.com|
+|Github|https://github.com/yamazaki2357/FAQ|https://github.com/yamazaki2357/site-coding||
+|Qiita|https://qiita.com/yamazaki2357/items/40daf5f188ca58b61e91||https://qiita.com/yamazaki2357/items/8a3db105e907ee4d8a7c|
