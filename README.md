@@ -5,6 +5,7 @@
 
 ・GPTカイル君(react, ChatGPT AI)開発中
 
+
 ## \:star2: ３月目標 
 
 ✅AI×自動化の学習　　
@@ -38,3 +39,5 @@ https://qiita.com/yamazaki2357
 |URL|https://school-faq.netlify.app/|https://coding-together.netlify.app|ブログ: https://yamazaki2357.hatenablog.com|
 |Github|https://github.com/yamazaki2357/FAQ|https://github.com/yamazaki2357/site-coding||
 |Qiita|https://qiita.com/yamazaki2357/items/40daf5f188ca58b61e91||https://qiita.com/yamazaki2357/items/8a3db105e907ee4d8a7c|
+
+git test
