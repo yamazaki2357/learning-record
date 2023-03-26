@@ -3,7 +3,7 @@
 
 ・LPIC level1 102 → ping-t問題　入力問題
 
-・GPTカイル君(react, ChatGPT AI)開発中
+~~・GPTカイル君(react, ChatGPT AI)開発中~~　アプレンティスシップ参加のため中断
 
 ・githubのトップ編集中
 
