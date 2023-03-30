@@ -1,7 +1,7 @@
 # 2023年３月30日（木）
 ## \:memo: 学習中 
 
-・LPIC level1 102 → ping-t問題　入力問題　最後の追い込み🏃‍♂️
+・LPIC level1 102 → ping-t問題　入力問題　総復習
 
 ~~・GPTカイル君(react, ChatGPT AI)開発中~~　アプレンティスシップ参加のため中断
 
