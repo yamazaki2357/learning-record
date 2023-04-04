@@ -1,29 +1,30 @@
-# 2023年4月3日（月）
+# 2023年4月4日（火）
 ## \:memo: 学習中 
 
-・LPIC level1 102 合格⭐️
+▶　Ruby→プロを目指す人のためのRuby入門 一読
 
-~~・GPTカイル君(react, ChatGPT AI)開発中~~　アプレンティスシップ参加のため中断
+▶️　AWS→ゼロから実践するAmazon Web Services
 
-・githubのトップ編集中
+https://www.udemy.com/course/aws-and-infra/
 
-振り返りしないと💦
 
-## \:star2: ３月目標 
+## \:star2: 4月目標 
 
-✅AI×自動化の学習　　
+✅　**アプレンティスシップに向けて基礎学習**
 
-→全自動ブログを完成させる　　⭐️
+・Ruby→プロを目指す人のためのRuby入門 一読
 
-→技術記事にまとめる　⭐️
+・AWS→ゼロから実践するAmazon Web Services
 
-⏩進捗8割のポートフォリオ　　
+https://www.udemy.com/course/aws-and-infra/
 
-→完成させる
+✅ **活動できる時間を伸ばす（体調最優先）**
 
-⏩LPIC学習（試験日：4月1日）　　
+今：5~6時間
 
-→計画表に沿って学習を進める
+目標：6~7時間
+
+チャレンジ：9時間 
 
 ## \:running: 進捗報告・アウトプット
 
