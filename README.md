@@ -1,12 +1,18 @@
-# 2023年4月4日（火）
+# 2023年4月5日（水）
 ## \:memo: 学習中 
 
-▶　Ruby→プロを目指す人のためのRuby入門 一読
+【今日の活動　7時間半】
 
-▶️　AWS→ゼロから実践するAmazon Web Services
+- 朝　1時間半
+  - AWS
 
-https://www.udemy.com/course/aws-and-infra/
+- 日中　4時間
+  - AWS
+  - 就労移行でプログラミング学習してる方のサポート
 
+
+- 夜　2時間
+  - docker
 
 ## \:star2: 4月目標 
 
